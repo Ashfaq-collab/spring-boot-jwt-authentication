@@ -8,7 +8,7 @@
 
 ### Technologies used
 
-- Java 21
+- Java 17
 - Spring Boot 3.5.x
 - Spring Web
 - Spring Security
